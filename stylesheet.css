@@ -3,8 +3,13 @@ body {
   }
   #nav-table {width: 800px;}
   #nav-td {width: 200px; text-align: center;}
+  p {text-align: width 600px;}
 h1{color: aqua;}
   h2 {color: rgb(52, 14, 87);
 
 }
 p {color: aqua;}
+body {
+  background-image: url(aboutmeBackround.png);
+  background-size: cover; 
+}
